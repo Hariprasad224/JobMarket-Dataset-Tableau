@@ -46,9 +46,16 @@ As this is my first Tableau project, I gained hands-on experience with:
 
 Feedback and suggestions are welcome! Please feel free to open an issue or submit a pull request.
 
+## 📄 License
+
+This project is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)**.  
+You are free to share and adapt the content as long as you give proper credit.
+
+[Read the full license here](https://creativecommons.org/licenses/by/4.0/)
+
+
 ---
 
-**Author**: [Your Name]  
+**Author**: P S Hariprasad
 **Project Type**: Personal Learning / Portfolio  
-**License**: MIT *(or your preferred license)*
 
